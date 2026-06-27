@@ -1,0 +1,6 @@
+pillow>=10.0.0
+mss>=9.0.1
+paddleocr>=2.7.0
+paddlepaddle>=2.6.0
+rapidfuzz>=3.6.0
+

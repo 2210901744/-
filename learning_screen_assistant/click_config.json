@@ -1,0 +1,119 @@
+{
+  "enabled": true,
+  "auto_click_after_query": true,
+  "click_submit_after_answer": true,
+  "click_next_after_answer": false,
+  "click_next_after_submit": true,
+  "restore_mouse_after_click": true,
+  "double_check_click_position": true,
+  "use_ocr_answer_positions": true,
+  "answers_inside_question_region": true,
+  "window_keyword": "默认前置窗口",
+  "coords": {
+    "A": [
+      0,
+      0
+    ],
+    "B": [
+      0,
+      0
+    ],
+    "C": [
+      0,
+      0
+    ],
+    "D": [
+      0,
+      0
+    ],
+    "E": [
+      0,
+      0
+    ],
+    "F": [
+      0,
+      0
+    ],
+    "TRUE": [
+      0,
+      0
+    ],
+    "FALSE": [
+      0,
+      0
+    ]
+  },
+  "click_delay_seconds": 0.35,
+  "coordinate_check_max_delta_pixels": 35.0,
+  "coordinate_check_retry_delay_seconds": 0.08,
+  "submit_click_delay_seconds": 0.3,
+  "submit_button_texts": [
+    "保存",
+    "提交",
+    "确定",
+    "确认",
+    "完成"
+  ],
+  "post_submit_page_wait_seconds": 1.5,
+  "next_click_delay_seconds": 0.4,
+  "next_button_texts": [
+    "下一题",
+    "下题",
+    "下一页",
+    "下一个",
+    "下一步",
+    "继续"
+  ],
+  "post_click_page_wait_seconds": 0.6,
+  "prev_button_texts": [
+    "上一题",
+    "上题",
+    "上一页",
+    "上一个",
+    "返回"
+  ],
+  "capture_target_window_only": true,
+  "mouse_restore_position": [
+    0,
+    0
+  ],
+  "question_region": {
+    "enabled": true,
+    "rect": [
+      488,
+      137,
+      1704,
+      949
+    ]
+  },
+  "position_memory": {
+    "schema_version": 2,
+    "enabled": true,
+    "search_radius": 180,
+    "options": {},
+    "buttons": {
+      "next": [
+        1386,
+        889
+      ],
+      "submit": [
+        568,
+        454
+      ]
+    }
+  },
+  "loop_interval_seconds": 1.2,
+  "loop_max_rounds": 100,
+  "stop_on_repeated_question": true,
+  "same_question_grace_rounds": 2,
+  "random_fallback_enabled": true,
+  "random_fallback_options": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "random_fallback_use_option_bounds": true,
+  "multi_random_extra_when_single": true,
+  "multi_min_selected_answers": 2
+}

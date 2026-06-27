@@ -1,0 +1,4 @@
+question,question_type,option_a,option_b,option_c,option_d,answer,explanation
+Python 中用于定义函数的关键字是什么？,single,func,def,function,lambda,B,Python 使用 def 定义普通函数。
+下列哪些属于 Python 内置数据结构？,multi,list,tuple,table,dict,ABD,list、tuple、dict 是常见内置数据结构。
+Python 中缩进会影响代码块结构。,judge,正确,错误,,,T,Python 使用缩进表示代码块。
